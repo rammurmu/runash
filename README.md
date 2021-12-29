@@ -11,11 +11,13 @@ Digital life easy life
 
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)RunAsh | Live Stream
 
+
+
 ### INTRODUCING THE NEXT GENERATION AND FUTURE OF E-COMMERCE
 
 LIVE RETAIL STREAMING
 
-GO Live
+[Go Live](https://)
 
 Watch Live Stream
 
@@ -86,16 +88,15 @@ Email address*
 SUBSCRIBE
 
 Subscribe to the weekly updates for exclusive content
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [support](https://runash.in/support) [streaming](https://runash.in/streaming)
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED
 
-CIN U52590JH2021PTC016339
+CIN U52590JH2021PTC016339.[^1]
 
-© RunAsh
+©2021RunAsh[^1]
 
-
-
-
+[^1]: Write in India
 
 
 
@@ -105,5 +106,14 @@ CIN U52590JH2021PTC016339
 
 
 
-#### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [support](https://runash.in/support) [streaming](https://runash.in/streaming) 
+
+
+
+
+
+
+
+
+
+
 
