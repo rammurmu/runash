@@ -70,6 +70,7 @@ We're create live retail streaming environment where seller can meet, showcase, 
 Create live retail stream take few steps
 
 Build real selling experience with a real users for 
+
 -[X]Secure 
 
 -[x] Trusted
@@ -83,7 +84,7 @@ Build real selling experience with a real users for
 ### Real time Insights for live streaming
 
 Organic feed
-
+![Go Live]()
 
 
 
