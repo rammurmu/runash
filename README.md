@@ -21,9 +21,15 @@ LIVE RETAIL STREAMING
 
 Watch Live Stream
 
-[Sign In](https://) to watch and connect live with the nearest retailers
+ [`SING IN`](https://) to watch and connect live with the nearest retailers<br> 
+ [Sign Up](https://)
+ 
 
-[Sign Up](https://)
+
+
+
+
+
 
 ### DIFFSERVE
 
@@ -31,7 +37,7 @@ The promise of diffserve or differentiated high-quality live streaming services
 
 [Learn more](https://)
 
-### About
+## About
 
 RunAsh
 
@@ -61,13 +67,19 @@ Providing physical reality through virtual reality
 
 Bridging the gap between traditional retail commerce self-made real selling experience 
 
-### Physical reality (PR)
+## Physical reality (PR)
 
 We're create live retail streaming environment where seller can meet, showcase, presentation or display product
 
 ### How IT Works ?
 
 Create live retail stream take few steps
+
+1.
+
+2.
+
+3.
 
 Build real selling experience with a real users for 
 
