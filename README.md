@@ -83,13 +83,13 @@ Create live retail stream take few steps
 
 Build real selling experience with a real users for 
 
--[X]Secure 
+-[X] Secure 
 
 -[x] Trusted
 
 -[]Traditional 
 
--[]Selling experience
+-[] Selling experience
 
 [Learn more »](https://)
 
@@ -116,7 +116,7 @@ Email address*
 [SUBSCRIBE](https://)
 
 Subscribe to the weekly updates for exclusive content
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [support](https://runash.in/support) [streaming](https://runash.in/streaming)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Go Live](https://runash.in/Contact) [Watch Live](https://runash.in/privacy) [Stream Store](https://runash.in/support) [FAQ](https://runash.in/streaming)
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED
 
