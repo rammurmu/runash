@@ -5,7 +5,7 @@ Home page
 
 
 
-### Welcome to RunAsh MVP 
+### Welcome to RunAsh MVP :tada:
 
 Digital life easy life
 
@@ -75,21 +75,31 @@ We're create live retail streaming environment where seller can meet, showcase, 
 
 Create live retail stream take few steps
 
-1.
+1. Step
 
-2.
+   - Step
 
-3.
+     - Step
+
+
+
+
+
+
+
+
+
+
 
 Build real selling experience with a real users for 
 
--[X] Secure 
+- [X] Secure 
 
--[x] Trusted
+- [x] Trusted
 
--[]Traditional 
+- [x] Traditional 
 
--[] Selling experience
+- [x] Selling experience
 
 [Learn more »](https://)
 
@@ -97,6 +107,24 @@ Build real selling experience with a real users for
 
 Organic feed
 ![Go Live]()
+
+| | Organic feed | Organic feed | Organic feed | Organic feed| |
+
+| - | :-: | - | :-: | - | - |
+
+| [Item](Veg) | : Fruit: | `: Diary food:` | : Grocery: | `:Local:` | [Veg](veget) |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -124,8 +152,27 @@ CIN U52590JH2021PTC016339.[^1]
 
 ©2021RunAsh[^1]
 
-[^1]: Write in India 
+[^1]: Write in India for World 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+   
 
 
 
