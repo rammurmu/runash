@@ -110,11 +110,11 @@ We're create live retail streaming environment where seller can meet, showcase, 
 
 Create live retail stream take few steps
 
-1. Step
+ - Step 1. Create Account
 
-   - Step
+   - Step 2. Schedule live stream
 
-     - Step
+     - Step 3. [Go live](https://runash.in/live)
 
 
 
