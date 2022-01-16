@@ -1,7 +1,10 @@
-# Home
-Home page
+# Welcome to RunAsh MVP :tada:
+RunAsh | Live Stream
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Support](https://runash.in/support) [Streaming](https://runash.in/streaming)
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [FAQ](https://runash.in/privacy) [Privacy](https://runash.in/support) [Terms](https://runash.in/streaming) [Stream Store](https://) [Go Live](https://) [Watch Stream](https://)
+   
+     
+
 
 
 
@@ -13,28 +16,28 @@ Home page
 
 
 
-<details><summary>Go live</summary>
 
-<p>
 
-#### Schedule a live streaming!
 
-    ```ruby
-       With "RunAsh"
-    ```
+
+
+
+   
+  
+   
 
    
 
-</p>
-
-</details>
 
 
-### Welcome to RunAsh MVP :tada:
+
+
+
+
 
 Digital life easy life
 
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)RunAsh | Live Stream
+
 
 
 
@@ -167,9 +170,9 @@ Organic feed
 
 
 
-```ruby
-Give your feedback to create a real experience✨ 
-```
+
+Give your feedback to create a real experience :tada:
+---
 [Give feedback ?](https://)
 
 STREAMING UPDATES
@@ -179,7 +182,7 @@ Email address*
 [SUBSCRIBE](https://)
 
 Subscribe to the weekly updates for exclusive content
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Go Live](https://runash.in/Contact) [Watch Live](https://runash.in/privacy) [Stream Store](https://runash.in/support) [FAQ](https://runash.in/streaming)
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Go Live](https://runash.in/Contact) [Watch Live](https://runash.in/privacy) [Stream Store](https://runash.in/support) [FAQ](https://runash.in/streaming)
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED
 
