@@ -1,7 +1,7 @@
-# Welcome to RunAsh MVP :tada:
+# 👋Hello and Welcome to RunAsh MVP🎉
 RunAsh | Live Stream
 
-### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [FAQ](https://runash.in/privacy) [Privacy](https://runash.in/support) [Terms](https://runash.in/streaming) [Stream Store](https://) [Go Live](https://) [Watch Stream](https://)
+## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [Faq](https://)
    
      
 
@@ -177,12 +177,14 @@ Give your feedback to create a real experience :tada:
 
 STREAMING UPDATES
 
-Email address*
+|Email address*|
 
 [SUBSCRIBE](https://)
 
 Subscribe to the weekly updates for exclusive content
-### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Go Live](https://runash.in/Contact) [Watch Live](https://runash.in/privacy) [Stream Store](https://runash.in/support) [FAQ](https://runash.in/streaming)
+## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [Faq](https://) 
+
+
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED
 
