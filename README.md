@@ -71,7 +71,7 @@ Watch Live Stream
 
 ### DIFFSERVE
 
-The promise of diffserve or differentiated high-quality live streaming services
+#### The promise of diffserve or differentiated high-quality live streaming services
 
 [Learn more](https://)
 
@@ -85,29 +85,32 @@ RunAsh is the first live retail streaming hybrid platform and marketplace.<br>th
 
 ### Reinventing real experience
 
-We're committed to building new ways to use physical reality
+#### We're committed to building new ways to use physical reality
 
 We help you get started &amp; make real selling easy on a daily basis.
 
 [Learn more](https://)
 
-We create a new concept of real selling experience
+### We create a new concept of real selling experience
 
-Change the nature and model of retailing
+#### Change the nature and model of retailing
 
-The way you experience traditional real selling, we connect you to the nearest buyer in your area, verified by us
+The way you experience traditional real selling, we connect you to the nearest buyer in your area, <br>
+verified by us
 
 [Learn more](https://)
 
 ### Real world's Real Commerce
 
-Providing physical reality through virtual reality
+#### Providing physical reality through virtual reality
 
 Bridging the gap between traditional retail commerce self-made real selling experience 
 
-## Physical reality (PR)
+### Physical reality (PR)
 
-We're create live retail streaming environment where seller can meet, showcase, presentation or display product
+
+
+#### We're create live retail streaming environment where seller can meet, showcase, presentation <br>or display product
 
 ### How IT Works ?
 
@@ -129,7 +132,8 @@ Create live retail stream take few steps
 
 
 
-Build real selling experience with a real users for 
+### Build real selling experience with a real users 
+for 
 
 - [X] Secure 
 
@@ -143,45 +147,60 @@ Build real selling experience with a real users for
 
 ### Real time Insights for live streaming
 
-|Organic feed|
-|---|
-![Go Live]()
-
-|Schedule live streaming|Schedule live streaming|
-|---|---|
+### 💯 % Organic feed ###
 
 
 
 
+|Categories|
 
+|:-:|
 
+|Vegetable ![]()|
 
+|Fruit|
 
+|Grocery|
 
+|Aurveyd|
 
+|Non Veg|
 
+|See Food|
 
-
-
-
-
-
-
+|Dairy Food|
 
 
 
 
 
 
-Give your feedback to create a real experience✨
----
-[Give feedback ?🌠](https://)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Give your feedback to create a real experience✨
+
+[Give feedback ? 👍 👎](https://)
 
 STREAMING UPDATES
 
 |Email address*|
 
-[SUBSCRIBE](https://)
+|[SUBSCRIBE](https://)|
 
 Subscribe to the weekly updates for exclusive content
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [Faq](https://) 
