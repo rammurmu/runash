@@ -49,7 +49,7 @@ LIVE RETAIL STREAMING
 
 Watch Live Stream
 
-[SIGN IN](https://) to watch and connect live with the nearest retailers<br> 
+|[SIGN IN](https://)| to watch and connect live with the nearest retailers<br> 
 [SIGN UP](https://)
  
 
@@ -152,23 +152,24 @@ for
 
 
 
-|Categories **7** <br>All Categories **99**|
+|🛒Categories **7** <br>🛍️All Categories **99**|
 
 
 
-|Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https://)![]()|
+|🥔Vegetable <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)![IMG_20211211_061408](https://user-images.githubusercontent.com/61916324/149770661-5e5e2f21-c51e-45ed-9aca-dbbe0140dbf5.jpg)
+|
 
-|Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🍋Fruit <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🥫Grocery <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🧉Aurveyd <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🍗Non Veg <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|See Food <br> Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🥩See Food <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|🥛Dairy Food <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
 
 
@@ -194,11 +195,11 @@ for
 
 ### Give your feedback to create a real experience✨
 
-[Give feedback ? 👍 👎](https://)
+[Give feedback ? 💌](https://)
 
 STREAMING UPDATES
 
-|Email address*|
+Email address*
 
 |[SUBSCRIBE](https://)|
 
