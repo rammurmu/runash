@@ -49,7 +49,7 @@ LIVE RETAIL STREAMING
 
 Watch Live Stream
 
-|[SIGN IN](https://)| to watch and connect live with the nearest retailers<br> 
+| [SIGN IN](https://) | to watch and connect live with the nearest retailers<br> 
 [SIGN UP](https://)
  
 
@@ -118,7 +118,7 @@ Create live retail stream take few steps
 
  - Step 1. Create Account
 
-   - Step 2. Schedule live stream
+   - Step 2. Schedule live streaming
 
      - Step 3. [Go live](https://runash.in/live)
 
@@ -156,20 +156,20 @@ for
 
 
 
-|Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+|Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|
 
 
-|Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|See Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic See Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
 
 
@@ -195,7 +195,7 @@ for
 
 ### Give your feedback to create a real experience✨
 
-[Give feedback ? 💌](https://)
+| [Give feedback ? 💌](https://) |
 
 STREAMING UPDATES
 
