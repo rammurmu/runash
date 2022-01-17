@@ -49,7 +49,8 @@ LIVE RETAIL STREAMING
 
 Watch Live Stream
 
-| [SIGN IN](https://) | <br>
+|[SIGN IN](https://)|
+
 To watch and connect live with the nearest retailers<br> 
 [SIGN UP](https://) Create Account
  
@@ -153,8 +154,8 @@ for :
 
 
 
-| Categories **7** | All Categories **99** |
-|---|---|
+| Categories **7** || All Categories **99** |
+
 
 
 
