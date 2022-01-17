@@ -152,24 +152,24 @@ for
 
 
 
-|🛒Categories **7** <br>🛍️All Categories **99**|
+|Categories **7** <br>All Categories **99**|
 
 
 
-|🥔Vegetable <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)![IMG_20211211_061408](https://user-images.githubusercontent.com/61916324/149770661-5e5e2f21-c51e-45ed-9aca-dbbe0140dbf5.jpg)
-|
+|Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
 
-|🍋Fruit <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|🥫Grocery <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|🧉Aurveyd <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|🍗Non Veg <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|🥩See Food <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|🥛Dairy Food <br>📆Schedule live streaming<br>Free<br> [Go Live](https://)|
+|See Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+
+|Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
 
 
@@ -199,7 +199,7 @@ for
 
 STREAMING UPDATES
 
-Email address*
+Email address* 
 
 |[SUBSCRIBE](https://)|
 
