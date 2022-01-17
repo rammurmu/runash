@@ -71,7 +71,7 @@ Watch Live Stream
 
 ### DIFFSERVE
 
-#### The promise of diffserve or differentiated high-quality live streaming services
+The promise of diffserve or differentiated high-quality live streaming services
 
 [Learn more](https://)
 
@@ -85,7 +85,7 @@ RunAsh is the first live retail streaming hybrid platform and marketplace.<br>th
 
 ### Reinventing real experience
 
-#### We're committed to building new ways to use physical reality
+We're committed to building new ways to use physical reality
 
 We help you get started &amp; make real selling easy on a daily basis.
 
@@ -93,7 +93,7 @@ We help you get started &amp; make real selling easy on a daily basis.
 
 ### We create a new concept of real selling experience
 
-#### Change the nature and model of retailing
+ Change the nature and model of retailing
 
 The way you experience traditional real selling, we connect you to the nearest buyer in your area, <br>
 verified by us
@@ -102,7 +102,7 @@ verified by us
 
 ### Real world's Real Commerce
 
-#### Providing physical reality through virtual reality
+Providing physical reality through virtual reality
 
 Bridging the gap between traditional retail commerce self-made real selling experience 
 
@@ -110,7 +110,7 @@ Bridging the gap between traditional retail commerce self-made real selling expe
 
 
 
-#### We're create live retail streaming environment where seller can meet, showcase, presentation <br>or display product
+We're create live retail streaming environment where seller can meet, showcase, presentation <br>or display product
 
 ### How IT Works ?
 
@@ -147,18 +147,18 @@ for
 
 ### Real time Insights for live streaming
 
-### 💯 % Organic feed ###
+### 💯 % Organic feed ✓ ###
 
 
 
 
-|Categories|
+|Categories| - [ - ] <br>All Categories - [ 7 ]
+:-:
 
-|:-:|
 
-|Vegetable ![]()|
+|Vegetable - [ 25 ] ![]()|
 
-|Fruit|
+|Fruit -[ 25 ] <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
 |Grocery|
 
