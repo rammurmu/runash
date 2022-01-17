@@ -1,7 +1,7 @@
 # 👋Hello and Welcome to RunAsh MVP🎉
 RunAsh | Live Stream
 
-## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [Faq](https://) 
+## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [FAQ](https://) 
    
      
 
@@ -133,7 +133,7 @@ Create live retail stream take few steps
 
 
 ### Build real selling experience with a real users 
-for 
+for :
 
 - [X] Secure 
 
@@ -147,13 +147,14 @@ for
 
 ### Real time Insights for live streaming
 
-### 💯 % Organic feed ✓ ###
+### 💯 *%* Organic feed ✓ ###
 
 
 
 
 |Categories **7** <br>All Categories **99**|
 
+|:---|---:|
 
 
 |Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|
@@ -204,7 +205,7 @@ Email address*
 |[SUBSCRIBE](https://)|
 
 Subscribe to the weekly updates for exclusive content
-## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [Faq](https://) 
+## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Go Live](https://runash.in/support) [Watch Live](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [FAQ](https://) 
 
 
 
