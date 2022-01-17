@@ -49,8 +49,9 @@ LIVE RETAIL STREAMING
 
 Watch Live Stream
 
-| [SIGN IN](https://) | to watch and connect live with the nearest retailers<br> 
-[SIGN UP](https://)
+| [SIGN IN](https://) | <br>
+To watch and connect live with the nearest retailers<br> 
+[SIGN UP](https://) Create Account
  
 
 
@@ -120,7 +121,7 @@ Create live retail stream take few steps
 
    - Step 2. Schedule live streaming
 
-     - Step 3. [Go live](https://runash.in/live)
+     - Step 3. [Go Live](https://runash.in/live)
 
 
 
@@ -152,9 +153,9 @@ for :
 
 
 
-|Categories **7** <br>All Categories **99**|
+| Categories **7** | All Categories **99** |
+|---|---|
 
-|:---|---:|
 
 
 |Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|
@@ -196,7 +197,7 @@ for :
 
 ### Give your feedback to create a real experience✨
 
-| [Give feedback ? 💌](https://) |
+| [GIVE FEEDBACK? 💌](https://) |
 
 STREAMING UPDATES
 
