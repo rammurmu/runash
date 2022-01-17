@@ -154,12 +154,12 @@ for :
 
 
 
-| Categories **7** || All Categories **99** |
+| Categories  |**09**| All Categories |**099**|
 
 
 
 
-|Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|
+|Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|Green leaf<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
 
 |Organic Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
@@ -198,7 +198,7 @@ for :
 
 ### Give your feedback to create a real experience✨
 
-| [GIVE FEEDBACK? 💌](https://) |
+| [GIVE FEEDBACK?](https://) |
 
 STREAMING UPDATES
 
