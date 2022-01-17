@@ -152,23 +152,23 @@ for
 
 
 
-|Categories| - [ - ] <br>All Categories - [ 7 ]
-:-:
+|Categories **7** <br>All Categories **99**|
 
 
-|Vegetable - [ 25 ] ![]()|
 
-|Fruit -[ 25 ] <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https://)![]()|
 
-|Grocery|
+|Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Aurveyd|
+|Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Non Veg|
+|Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|See Food|
+|Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Dairy Food|
+|See Food <br> Schedule live streaming<br>Free<br> [Go Live](https://)|
+
+|Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
 
 
