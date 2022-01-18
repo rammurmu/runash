@@ -41,7 +41,7 @@ RunAsh | Live Stream
 
 
 
-### INTRODUCING THE NEXT GENERATION AND FUTURE OF E-COMMERCE
+####### INTRODUCING THE NEXT GENERATION AND FUTURE OF E-COMMERCE
 
 LIVE RETAIL STREAMING
 
@@ -71,13 +71,13 @@ To watch and connect live with the nearest retailers<br>
 
 
 
-### DIFFSERVE
+####### DIFFSERVE
 
 The promise of diffserve or differentiated high-quality live streaming services
 
 [Learn more](https://)
 
-## About
+####### About
 
 RunAsh
 
@@ -85,7 +85,7 @@ RunAsh is the first live retail streaming hybrid platform and marketplace.<br>th
 
 [Learn more](https://)
 
-### Reinventing real experience
+####### Reinventing real experience
 
 We're committed to building new ways to use physical reality
 
@@ -93,7 +93,7 @@ We help you get started &amp; make real selling easy on a daily basis.
 
 [Learn more](https://)
 
-### We create a new concept of real selling experience
+####### We create a new concept of real selling experience
 
  Change the nature and model of retailing
 
@@ -102,19 +102,19 @@ verified by us
 
 [Learn more](https://)
 
-### Real world's Real Commerce
+####### Real world's Real Commerce
 
 Providing physical reality through virtual reality
 
 Bridging the gap between traditional retail commerce self-made real selling experience 
 
-### Physical reality (PR)
+####### Physical reality (PR)
 
 
 
 We're create live retail streaming environment where seller can meet, showcase, presentation <br>or display product
 
-### How IT Works ?
+####### How IT Works ?
 
 Create live retail stream take few steps
 
@@ -134,7 +134,7 @@ Create live retail stream take few steps
 
 
 
-### Build real selling experience with a real users 
+####### Build real selling experience with a real users 
 for :
 
 - [X] Secure 
@@ -147,9 +147,9 @@ for :
 
 [Learn more »](https://)
 
-### Real time Insights for live streaming
+####### Real time Insights for live streaming
 
-### 💯 *%* Organic feed ✓ ###
+######## 💯 *%* Organic feed ✓ #######
 
 
 
@@ -196,7 +196,7 @@ for :
 
 
 
-### Give your feedback to create a real experience✨
+####### Give your feedback to create a real experience✨
 
 | [GIVE FEEDBACK?](https://) |
 
