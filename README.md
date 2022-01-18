@@ -1,7 +1,7 @@
 # 👋Hello and Welcome to RunAsh MVP🎉
-RunAsh | Live Stream
 
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) RUNASH | LIVE STREAM
 
 ## [ABOUT](https://runash.in/about) [CONTACT](https://runash.in/Contact) [STORE](https://runash.in/privacy) [GO LIVE](https://runash.in/support) [WATCH LIVE](https://) [TERMS](https://runash.in/streaming) [PRIVACY](https://) [BLOG](https://) [FAQ](https://) 
    
@@ -210,7 +210,7 @@ Email address*
 
 Subscribe to the weekly updates for exclusive content
 
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) RUNASH | LIVE STREAM
 
 ## [ABOUT](https://runash.in/about) [CONTACT](https://runash.in/Contact) [STORE](https://runash.in/privacy) [GO LIVE](https://runash.in/support) [WATCH LIVE](https://) [TERMS](https://runash.in/streaming) [PRIVACY](https://) [BLOG](https://) [FAQ](https://) 
 
