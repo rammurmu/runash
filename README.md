@@ -1,9 +1,11 @@
 # 👋Hello and Welcome to RunAsh MVP🎉
 
 
-### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) RUNASH | LIVE STREAM
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Store](https://runash.in/privacy) [Live](https://runash.in/support) [Watch](https://) [Terms](https://runash.in/streaming) [Privacy](https://) [Blog](https://) [FAQ](https://) 
 
-## [ABOUT](https://runash.in/about) [CONTACT](https://runash.in/Contact) [STORE](https://runash.in/privacy) [GO LIVE](https://runash.in/support) [WATCH LIVE](https://) [TERMS](https://runash.in/streaming) [PRIVACY](https://) [BLOG](https://) [FAQ](https://) 
+   
+
+
    
      
 
@@ -37,7 +39,7 @@
 
 
 
-💫Digital life easy life
+Digital life easy life
 
 
 
@@ -73,13 +75,13 @@ To watch and connect live with the nearest retailers<br>
 
 
 
-###### DIFFSERVE
+### DIFFSERVE
 
 The promise of diffserve or differentiated high-quality live streaming services
 
 [Learn more](https://)
 
-###### About
+### About
 
 RunAsh
 
@@ -87,7 +89,7 @@ RunAsh is the first live retail streaming hybrid platform and marketplace.<br>th
 
 [Learn more](https://)
 
-###### Reinventing real experience
+### Reinventing real experience
 
 We're committed to building new ways to use physical reality
 
@@ -95,7 +97,7 @@ We help you get started &amp; make real selling easy on a daily basis.
 
 [Learn more](https://)
 
-###### We create a new concept of real selling experience
+### We create a new concept of real selling experience
 
  Change the nature and model of retailing
 
@@ -104,19 +106,19 @@ verified by us
 
 [Learn more](https://)
 
-###### Real world's Real Commerce
+### Real world's Real Commerce
 
 Providing physical reality through virtual reality
 
 Bridging the gap between traditional retail commerce self-made real selling experience 
 
-###### Physical reality (PR)
+### Physical reality (PR)
 
 
 
 We're create live retail streaming environment where seller can meet, showcase, presentation <br>or display product
 
-###### How IT Works ?
+### How IT Works ?
 
 Create live retail stream take few steps
 
@@ -136,7 +138,7 @@ Create live retail stream take few steps
 
 
 
-###### Build real selling experience with a real users 
+### Build real selling experience with a real users 
 for :
 
 - [X] Secure 
@@ -149,9 +151,9 @@ for :
 
 [Learn more »](https://)
 
-###### Real time Insights for live streaming
+### Real time Insights for live streaming
 
-###### 💯 *%* Organic feed ✓ ######
+### 💯 *%* Organic feed ✓ ###
 
 
 
@@ -198,7 +200,7 @@ for :
 
 
 
-###### Give your feedback to create a real experience✨
+### Give your feedback to create a real experience✨
 
 | [GIVE FEEDBACK?](https://) |
 
@@ -210,9 +212,9 @@ Email address*
 
 Subscribe to the weekly updates for exclusive content
 
-### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) RUNASH | LIVE STREAM
+### ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
-## [ABOUT](https://runash.in/about) [CONTACT](https://runash.in/Contact) [STORE](https://runash.in/privacy) [GO LIVE](https://runash.in/support) [WATCH LIVE](https://) [TERMS](https://runash.in/streaming) [PRIVACY](https://) [BLOG](https://) [FAQ](https://) 
+
 
 
 
