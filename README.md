@@ -69,7 +69,7 @@
 
 
 
-Digital life easy life
+<p align="centre">Digital life easy life</p>
 
 
 
@@ -204,10 +204,10 @@ for :
 
 |Organic Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|Organic Nuts<br>Schedule live streaming<br>Free<br>[Go Livr](https://)|
 
-|Organic See Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)![project_20220120_1337304-01](https://user-images.githubusercontent.com/61916324/151776065-fc43f04c-f377-493a-942a-47c80881a19c.png)
+|Organic See Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)
 |Organic Authentic Spices<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
-|Organic Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)![project_20220120_1247152-01](https://user-images.githubusercontent.com/61916324/151775794-49247594-dca0-4c14-9f46-b26f113a3a1a.png)
+|Organic Dairy Food <br>Schedule live streaming<br>Free<br> [Go Live](https://)![project_20220120_1247152-01](https
 |
 
 
