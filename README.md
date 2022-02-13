@@ -44,15 +44,16 @@
 
 
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
-[About]()    [Contact]()     [Privacy]()    [Terms]()    [Help]()    [FAQ]()  [Blog]()
----  
+# [**About**]()    [**Contact**]()     [**Privacy**]()    [**Help**]()
+
+
 
 ###### Latest Update 
 
 - Sales Chanel 
 - Shopping Store 
 - Remote Work 
-<hr>
+
 
     
     
@@ -293,7 +294,8 @@ Email address*
 
 Subscribe to the weekly updates for exclusive content
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Services](https://runash.in/privacy) [Support](https://) [Privacy](https://)
+![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+# [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://)
 
 
 
