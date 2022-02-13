@@ -108,7 +108,7 @@
 
 
 
-<p align="centre">Digital life easy life</p>
+
 
 
 
