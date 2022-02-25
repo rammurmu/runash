@@ -209,7 +209,7 @@ Create live retail stream take few steps
 
 ### Build real selling experience with a real users 
 for :
-
+- [x] Safe
 - [X] Secure 
 
 - [x] Trusted
@@ -227,17 +227,31 @@ for :
 
 
 
-| Categories  |**09**| All Categories |**099**||Product|**100**|All Products|**200|
+**CATEGORIES**
+
+**``Vegetable``**<br>
+**``Fruit``**<br>
+**``Green leaf``**<br>
+**``Dry food ``**<br>
+**``Grocery``**<br>
+**``Bread``**<br>
+**``Aurveyd``**<br>
+**``Bakes``**<br>
+**``Non veg``**<br>
+**``Dry nuts``**<br>
+**``See food``**<br>
+**``Authentic spices``**<br>
+**``Dairy food``**<br>
 
 
 
 
-|Organic Vegetable <br>Schedule live streaming<br>Free<br> [Go Live](https:)|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``**|
 
-|Green leaf<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
+|Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**|
 
 
-|Organic Fruit <br>Schedule live streaming<br>Free<br> [Go Live](https://)
+|Organic Fruit <br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://) <br>**``Apple``** **``Grapes``**|
 
 |Organic Dry Food<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
@@ -247,9 +261,9 @@ for :
 
 |Organic Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Organic Bakes<br>Schedule live streaming<br>Free<br>[Go Live](https:)|
+|Organic Bakes<br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https:)<br>**``Bread``** **``Cake``**|
 
-|Organic Non Veg <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Non Veg <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://)<br>**``Checan``** **``Motan``**|
 
 |Organic Nuts<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
@@ -284,15 +298,15 @@ for :
 
 ### Give your feedback to create a real experience✨
 
-| [GIVE FEEDBACK?](https://) |
+| [Give feedback?](https://) |
+```
+Sign up for exclusive weekly streaming content updates form RunAsh
 
-STREAMING UPDATES
+|Email address* ||[Subscribe](https://)
 
-Email address* 
 
-|[SUBSCRIBE](https://)|
+```
 
-Subscribe to the weekly updates for exclusive content
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://)
 
