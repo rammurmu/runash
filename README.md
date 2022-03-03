@@ -232,19 +232,19 @@ for :
 
 **CATEGORIES**
 
-**``Vegetable``**<br>
-**``Fruit``**<br>
-**``Green leaf``**<br>
-**``Dry food ``**<br>
-**``Grocery``**<br>
-**``Bread``**<br>
-**``Aurveyd``**<br>
-**``Bakes``**<br>
-**``Non veg``**<br>
-**``Dry nuts``**<br>
-**``See food``**<br>
-**``Authentic spices``**<br>
-**``Dairy food``**<br>
+# ``Vegetable``
+# ``Fruit``
+# ``Green leaf``
+# ``Dry food ``
+# ``Grocery``
+# ``Bread``
+# ``Aurveyd``
+# ``Bakes``
+# ``Non veg``
+# ``Dry nuts``
+# ``See food``
+# ``Authentic spices``
+# ``Dairy food``
 
 
 
