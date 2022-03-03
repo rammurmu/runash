@@ -47,7 +47,7 @@
 
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) [About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://)
----
+
 
 
 
@@ -57,7 +57,7 @@
 - Shopping Store 
 - Remote Work 
 
----
+
     
     
       
@@ -232,7 +232,7 @@ for :
 
 **CATEGORIES**
 
-# ``Vegetable``
+# ``Vegetable`` ``Footwear``
 # ``Fruit``
 # ``Green leaf``
 # ``Dry food ``
@@ -312,7 +312,7 @@ Sign up for exclusive weekly streaming content updates form RunAsh
 
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://)
----
+
 
 
 <br>
