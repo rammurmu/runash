@@ -46,8 +46,8 @@
 
 
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a2418ntact) 
 
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
 
 
@@ -232,8 +232,8 @@ for :
 
 **CATEGORIES**
 
-# ``Vegetable`` ``Footwear``
-# ``Fruit``
+# ``Vegetable`` ``Footwear`` ``Green leaf`` ``Dry food``
+# ``Fruit`` ``Groceries`` ``Bread`` ``Aurveyd`` ``Bakes``
 # ``Green leaf``
 # ``Dry food ``
 # ``Grocery``
@@ -249,10 +249,10 @@ for :
 
 
 
-|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``**|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
 
-|Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**|
-
+|Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**
+![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) |
 
 |Organic Fruit <br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://) <br>**``Apple``** **``Grapes``**|
 
@@ -305,7 +305,7 @@ for :
 
 Sign up for exclusive weekly streaming content updates form RunAsh
 
-|Email address* ||[Subscribe](https://)|
+|Email address* |```[Subscribe]```(https://)|
 
 
 
