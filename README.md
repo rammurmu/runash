@@ -249,13 +249,14 @@ for :
 
 
 
-|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``**<br>![octojekyll](https://user-images.githubusercontent.com/61916324/156880992-b8cea425-a673-4824-a9b6-949625ed86a8.png "Ram Store")|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``**<br>![octojekyll](https://user-images.githubusercontent.com/61916324/156880992-b8cea425-a673-4824-a9b6-949625ed86a8.png)|
 
 
 
 
-
-|Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**
+|![octojekyll](https://user-images.githubusercontent.com/61916324/156881388-a966c3c7-f967-4553-806f-2ee62fb53cbf.png)
+<br>
+Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) |
 
 |Organic Fruit <br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://) <br>**``Apple``** **``Grapes``** 
@@ -310,13 +311,13 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
 Sign up for exclusive weekly streaming content updates form RunAsh
 
-|Email address* |[Subscribe](https://)|
+|[Subscribe](https://)|
 
 
 
 
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://) [FAQ](https://)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream <div>[About](https://runash.in/about) <div> [Contact](https://runash.in/Contact) <div> [Privacy](https://runash.in/privacy) <div> [Help](https://) <div> [FAQ](https://) <div> [Blog](https://)
 
 
 
