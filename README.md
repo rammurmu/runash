@@ -211,7 +211,7 @@ Create live retail stream take few steps
 
 
 ### Build real selling experience with a real users 
-for :
+for : Build
 - [x] Safe
 - [X] Secure 
 
