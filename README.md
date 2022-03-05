@@ -47,7 +47,7 @@
 
 
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-## INTRODUCING THE NEXT GENERATION AND FUTURE OF E-COMMERCE
+## INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCE
 
 LIVE RETAIL STREAMING
 
@@ -249,22 +249,26 @@ for :
 
 
 
-|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** 
+![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+
+|---|---|
 
 |Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) |
 
-|Organic Fruit <br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://) <br>**``Apple``** **``Grapes``** ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+|Organic Fruit <br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://) <br>**``Apple``** **``Grapes``** 
+![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
 
 |Organic Dry Food<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
- ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+
 |Organic Grocery <br>Schedule live streaming<br>Free<br> [Go Live](https://)
 
-| ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
+Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
-|![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|Organic Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
+|Organic Aurveyd <br>Schedule live streaming<br>Free<br> [Go Live](https://)|
 
-|Organic Bakes<br>By Vaibhav Murmu<br>![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Schedule live streaming<br>Free<br>[Go Live](https:)<br>**``Bread``** **``Cake``**|
+|Organic Bakes<br>By Vaibhav Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https:)<br>**``Bread``** **``Cake``**|
 
 |Organic Non Veg <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https://)<br>**``Checan``** **``Motan``**|
 
