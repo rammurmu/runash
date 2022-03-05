@@ -249,7 +249,7 @@ for :
 
 
 
-|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** |![octojekyll](https://user-images.githubusercontent.com/61916324/156880992-b8cea425-a673-4824-a9b6-949625ed86a8.png)|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule a live streaming with RunAsh <br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** |![octojekyll](https://user-images.githubusercontent.com/61916324/156880992-b8cea425-a673-4824-a9b6-949625ed86a8.png)|
 
 
 
@@ -320,7 +320,7 @@ Sign up for exclusive weekly streaming content updates form RunAsh
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 
-[About](https://runash.in/about) <div></div> [Contact](https://runash.in/Contact) <div><div> [Privacy](https://runash.in/privacy) <div></div> [Help](https://) <div><div> [FAQ](https://) <div></div>[Blog](https://)
+| [About](https://runash.in/about) | [Contact](https://runash.in/Contact) | [Privacy](https://runash.in/privacy)| [Help](https://) | [FAQ](https://) | [Blog](https://) |
 
 
 
