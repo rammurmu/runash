@@ -249,10 +249,11 @@ for :
 
 
 
-|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``** 
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)|
+|Organic Vegetable <br>By Ram Murmu<br>Schedule live streaming<br>Free<br> [Go Live](https:) <br>**``Tometo``** **``Pateto``**<br>![octojekyll](https://user-images.githubusercontent.com/61916324/156880992-b8cea425-a673-4824-a9b6-949625ed86a8.png "Ram Store")|
 
-|---|---|
+
+
+
 
 |Green leaf<br>By Ram Murmu<br>Schedule live streaming<br>Free<br>[Go Live](https://) <br>**``Methi``** **``Mint``**
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) |
@@ -309,17 +310,17 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
 Sign up for exclusive weekly streaming content updates form RunAsh
 
-|Email address* |```[Subscribe]```(https://)|
+|Email address* |[Subscribe](https://)|
 
 
 
 
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[About](https://runash.in/about) [Contact](https://runash.in/Contact) [Privacy](https://runash.in/privacy) [Help](https://) [FAQ](https://)
 
 
 
-<br>
+
 
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED
